@@ -69,4 +69,4 @@ We have divided our solution into three sections :
 - To rank the web pages according to data like SEO.
 - To Classify the index of different web pages like blog page, insurance page, product page, tools etc.
 
-### Thank You!
+# Thank You!
