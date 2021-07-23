@@ -40,11 +40,11 @@ We have divided our solution into three sections :
 
 ## Tech Stack :
 
-- Web Scraping :
-- Backend :
-- Frontend :
-- Cloud Service Providers :
-- Database :
+- Web Scraping : BeautifulSoup
+- Backend : NodeJs, Express
+- Frontend : ReactJs
+- Cloud Service Providers : Netlify, Heroku
+- Database : MongoDB
 - Design : Figma
 
 ## So, how is our solution different?
